@@ -1,6 +1,7 @@
 # blockchain-Lab
 
-:smile:
+😄 🥼 🕶️ 🏫
+
 1. hash functions and mining process
 2. Merkle Tree
 3. introduction to solidity programming: enums and arrays
